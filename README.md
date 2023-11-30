@@ -1,5 +1,5 @@
 # Alchemy
-Next.js using Typescript 
+Next.js using TypeScript 
 e-com
 
 ![al1](https://github.com/TerranceFinleyZ/Alchemy/assets/112042894/bf0f65f7-411b-4cd0-a257-651644b25ef6)
